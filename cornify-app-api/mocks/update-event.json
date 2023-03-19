@@ -1,0 +1,11 @@
+{
+    "body":  "{\"title\":\"juice head disposable vape\",\"image\":\"juice-head-2kpuff\",\"brand\":\"juice head\", \"price\":\"140.00\",\"countInStock\":\"25\"}",
+    "pathParameters": {
+      "id": "578eb840-f70f-11e6-9d1a-1359b3b22944"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }

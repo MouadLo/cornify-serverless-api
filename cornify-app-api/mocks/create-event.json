@@ -1,0 +1,8 @@
+{
+    "body": "{\"title\":\"juice head 5000puff\",\"image\":\"hello.jpg\",\"brand\":\"juice head\", \"price\":\"240.00\",\"countInStock\":\"25\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
